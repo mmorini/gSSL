@@ -24,6 +24,6 @@ install:
 
   - conda install --yes python=$TRAVIS_PYTHON_VERSION numpy scipy matplotlib nose
 
-#script:
-  #- nosetests -v
+script:
+  - nosetests -v
 
