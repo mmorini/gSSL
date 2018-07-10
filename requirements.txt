@@ -2,4 +2,5 @@ numpy >= 1.14.1
 pandas >= 0.17
 networkx >= 1.10
 joblib
+nbconvert
 
