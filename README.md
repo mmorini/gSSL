@@ -1,5 +1,7 @@
 # gSSL
 
+[![Build Status](https://travis-ci.org/mmorini/gSSL.svg?branch=master)](https://travis-ci.org/mmorini/gSSL)
+
 Additional material (work in progress source code) to the forthcoming paper "Graph-Based Semi-Supervised Learning based on Bridgeness Biased 
 Random Walks", by Sarah de Nigris and Matteo Morini.
 
